@@ -4,9 +4,9 @@
         <input type="text" v-model="userid.email" placeholder="userid@gmail.com"><br><br>
         <input type="text" v-model="userid.password" placeholder="Enter your password"><br><br>
         <button id="butstyle" @click="loginForm">Login</button><br><br>
-        <div>
+        <!-- <div>
             New user?&nbsp;<button @click="signIn">Sign in</button>
-        </div>
+        </div> -->
     </div>
 </template>
 
