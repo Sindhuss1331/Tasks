@@ -1,5 +1,6 @@
 <template>
     <div id="divstyle">
+        <h1>Welcome our login page</h1>
         <h1>Login Page</h1><br>
         <input type="text" v-model="userid.email" placeholder="userid@gmail.com"><br><br>
         <input type="text" v-model="userid.password" placeholder="Enter your password"><br><br>
